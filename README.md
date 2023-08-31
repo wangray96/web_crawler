@@ -1,0 +1,2 @@
+# web_crawler_hotel.com_booking.com_GoogleMap
+大四畢業專題題目為，旅宿業者的政策效果分析，使用爬蟲來抓取各平台上民眾留言來作為政策效果分析的重要依據
